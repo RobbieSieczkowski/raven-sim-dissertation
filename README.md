@@ -72,3 +72,6 @@ Code and assets are licensed separately. Third-party assets remain under their o
 ## Acknowledgements
 
 Developed under the supervision of Dr. Katryna Starks in the PLAYlab, University of Illinois Urbana-Champaign.
+Acknowledgements
+
+Unity is a trademark of Unity Technologies.
